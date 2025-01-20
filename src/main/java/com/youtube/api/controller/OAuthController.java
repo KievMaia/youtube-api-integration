@@ -1,6 +1,5 @@
 package com.youtube.api.controller;
 
-import com.google.api.client.auth.oauth2.Credential;
 import com.youtube.api.auth.Auth;
 import com.youtube.api.service.YoutubeService;
 import org.springframework.web.bind.annotation.GetMapping;
